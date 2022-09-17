@@ -143,7 +143,6 @@ void FillArrayRandom(int[,] NewArray)
     }
 }
 
-// Функция вывода двумерного массива в терминал 
 void PrintArray2D(int[,] NewArray)
 {
     for (int i = 0; i < NewArray.GetLength(0); i++)
