@@ -227,7 +227,7 @@ void CreateArray(int[,,] array3D)
   }
 }
 
-// Задача №60
+// Задача №62
 
 int n = 4;
 int[,] sqareMatrix = new int[n, n];
